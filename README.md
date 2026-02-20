@@ -1,17 +1,17 @@
-# Power BI Sales Dashboard
+ Power BI Sales Dashboard
 
-## Project Overview
+ Project Overview
 This project analyzes sales data using Power BI and creates an interactive dashboard.
 
-## Visualizations Created
+ Visualizations Created
 - Sum of Sales by Category
 - Sum of Sales by Region
 - Total Sales Card
 - Region Slicer
 
-## Tools Used
+ Tools Used
 - Power BI Desktop
 - GitHub
 
-## Dataset
+ Dataset
 Superstore Sales Dataset
